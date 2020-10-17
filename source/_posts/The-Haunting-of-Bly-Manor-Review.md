@@ -5,6 +5,9 @@ categories: [TV Reviews]
 tags: 
 ---
 
+<figure>{% asset_img haunting_of_bly_manor.jpg "The Haunting of Bly Manor" %}</figure>
+<!-- more -->
+
 > We lay my love and I beneath the weeping willow
 >
 > But now alone I lie and weep beside the tree
@@ -22,5 +25,3 @@ The story starts with the narrator telling a ghost story about the Bly manor. It
 Lot of people are comparing it to the Haunting of Hill House but to be honest, they are both very different shows. While the Hill House was about grief, sibling relationships and how it affected their lives whereas Bly Manor is about love, guilt and loss. 
 
 This is a show that will stay with you for long and you would definitely want to visit it again. This is yet another masterpiece from the same team which made Hill House everyone's favorite horror story. I don't have many words to describe this show so I suggest everyone to try it while I go and rewatch it.
-
-<figure>{% asset_img haunting_of_bly_manor.jpg "The Haunting of Bly Manor" %}</figure>
