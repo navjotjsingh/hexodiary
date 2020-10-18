@@ -71,3 +71,9 @@ deploy:
 alias:
   lets-hate-45381e46198a/index.html: 'https://diary.nspeaks.com/2019/02/16/Let%E2%80%99s-hate/'
   digital-india-is-a-myth-74f3e3c74ec0/index.html: 'https://diary.nspeaks.com/2015/09/28/Digital-India-is-a-myth/'
+feed:
+    enable: true
+    type: atom
+    path: atom.xml
+    limit: 20
+    content: true
