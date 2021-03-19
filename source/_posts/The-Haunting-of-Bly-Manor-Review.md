@@ -2,7 +2,7 @@
 title: The Haunting of Bly Manor Review
 date: 2020-10-15 13:09:06
 categories: [TV Reviews]
-tags: 
+tags: TV shows
 ---
 
 <figure>{% asset_img haunting_of_bly_manor.jpg "The Haunting of Bly Manor" %}</figure>
