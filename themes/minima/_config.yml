@@ -3,7 +3,7 @@ title: "Hocus Pocus"
 
 #main info
 #owner
-owner: "I am Navjot Singh"
+owner: "I am Navjot Singh (He/him)"
 email: diary@nspeaks.com
 info: "A freelance technical writer and web developer from India."
 #description
@@ -23,12 +23,12 @@ tcolor: 0FA0CE
 # Define path to user css
 #(could be also located outside of theme)
 # Relative to source/ directory
-usercss: css/user.css
+usercss: 
 
 # social profile at the footer/bottom
 footer: true
-placename: Earth
-placelink: https://en.wikipedia.org/wiki/Earth
+placename: 
+placelink: 
 github: https://github.com/navjotjsingh
 linkedin: 
 twitter: https://twitter.com/nspeaks
@@ -45,7 +45,7 @@ favicon: /images/favicon.ico
 thumbnail: /images/thumbnail.jpg
 
 article:
-  thumbnail: false
+  thumbnail: true
 
 # DISQUS comments (sign up to Disqus to get disqus_shortname)
 disqus_enabled: false
