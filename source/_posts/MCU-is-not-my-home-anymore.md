@@ -1,6 +1,6 @@
 ---
 title: MCU is not my home anymore
-date: 2022-05-06 06:32:00
+date: 2022-07-15 06:32:00
 categories: [Movie Reviews]
 tags: Movies
 ---
