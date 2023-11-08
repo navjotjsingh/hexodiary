@@ -7,7 +7,7 @@ owner: "I am Navjot Singh (He/him)"
 email: diary@nspeaks.com
 info: "A freelance technical writer and web developer from India."
 #description
-desc: "This is my personal diary where I put out random stuff and sometimes talk about the movies and shows I love."
+desc: "This is my personal diary where I put out random stuff and sometimes talk about the movies and shows I love. From the river to the sea, Palestine(🇵🇸) will be free."
 
 #menu
 menu:
@@ -23,16 +23,16 @@ tcolor: 0FA0CE
 # Define path to user css
 #(could be also located outside of theme)
 # Relative to source/ directory
-usercss: 
+usercss:
 
 # social profile at the footer/bottom
 footer: true
-placename: 
-placelink: 
+placename:
+placelink:
 github: https://github.com/navjotjsingh
-linkedin: 
+linkedin:
 twitter: https://twitter.com/nspeaks
-instagram: 
+instagram:
 
 # Misc
 nanobar: /js/nanobar.min.js
